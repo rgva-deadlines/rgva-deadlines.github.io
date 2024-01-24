@@ -2247,3 +2247,17 @@
   end: 2024-11-28
   sub: SP
   note: Check the conference website for workshop and demo deadlines.
+
+- title: AIED
+  year: 2024
+  id: aied24
+  full_name: International Conference on Artificial Intelligence in Education
+  link: https://aied2024.cesar.school
+  deadline: '2024-02-05 23:59:59'
+  timezone: UTC-12
+  place: Recife, Brazil
+  date: July, 8-12, 2024
+  start: 2024-07-08
+  end: 2024-07-12
+  sub: EDU
+  abstract_deadline: '2024-01-29 23:59:59'
