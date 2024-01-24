@@ -29,3 +29,6 @@
 - name: Human-Computer Interaction
   sub: HCI
   color: "#a83232"
+- name: Educational Technologies
+  sub: EDU
+  color: "#8532a8"
