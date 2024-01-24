@@ -835,10 +835,10 @@
     note: 'This is the Round 2 submission. Paper Registration is on August 23rd 2023. More info <a href=''https://wacv2024.thecvf.com/submissions/''>here</a>.'
     rank: 
 -
-    title: *SEM
+    title: SEM
     year: 2023
     id: starsem23
-    full_name: *SEM 2023
+    full_name: SEM 2023
     link: https://sites.google.com/view/starsem2023
     deadline: 24.03.2023 23:59
     abstract_deadline: 
