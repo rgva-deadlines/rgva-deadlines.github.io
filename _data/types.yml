@@ -35,3 +35,9 @@
 - name: Patent Retrieval
   sub: PatR
   color: "#107a30"
+- name: Reinforcement Learning
+  sub: ReL
+  color: "#a432a8"
+- name: Recommender Systems
+  sub: RSys
+  color: "#0aff99"
