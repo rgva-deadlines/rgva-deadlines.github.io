@@ -41,3 +41,6 @@
 - name: Recommender Systems
   sub: RSys
   color: "#0aff99"
+- name: Information Retrieval
+  sub: IR
+  color: "#580aff"
