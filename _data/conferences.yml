@@ -13,19 +13,6 @@
   sub: IR
   note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
 
-- title: ICML
-  year: 2024
-  id: icml24
-  link: https://icml.cc/Conferences/2024
-  deadline: '2024-02-01 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: July 21-27, 2024
-  start: 2024-07-21
-  end: 2024-07-27
-  hindex: 254
-  sub: ML
-  
 - title: AIED
   year: 2024
   id: aied24
@@ -39,7 +26,6 @@
   end: 2024-07-12
   sub: EDU
   abstract_deadline: '2024-01-29 23:59:59'
-  rank_core: A
   note: "Core ranking: A"
 
 - title: MM
