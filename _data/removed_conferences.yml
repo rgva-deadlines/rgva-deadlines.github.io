@@ -11,7 +11,6 @@
   hindex: 80
   sub: RO
 
-
 - title: AAAI 2024 Spring Symposium on Clinical Foundation Models
   year: 2024
   id: aaaisss24cfm  # title as lower case + last two digits of year
@@ -492,7 +491,7 @@
   sub: CG
   note: Mandatory abstract deadline on Jan 24, 2022. More info <a href='https://s2023.siggraph.org/program/technical-papers/'>here</a>.
 
-- title: ECML/PKDD
+- title: 'ECML/PKDD'
   year: 2023
   id: ecmlpkdd23  # title as lower case + last two digits of year
   full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases # full conference name
