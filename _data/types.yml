@@ -32,3 +32,6 @@
 - name: Educational Technologies
   sub: EDU
   color: "#8532a8"
+- name: Patent Retrieval
+  sub: PatR
+  color: "#107a30"
