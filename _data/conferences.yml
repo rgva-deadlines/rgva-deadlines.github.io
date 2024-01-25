@@ -40,7 +40,7 @@
   start: 2024-10-28
   end: 2024-11-01
   sub: CV
-  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
+  note: 'Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.'
 
 - title: ACL
   year: 2024
@@ -54,7 +54,7 @@
   end: 2024-08-16
   hindex: 192
   sub: NLP
-  note: All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.
+  note: 'All submissions should be done through ARR. More info <a href="https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf">here</a>.'
 
 - title: KR
   year: 2024
